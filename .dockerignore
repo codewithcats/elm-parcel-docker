@@ -1,0 +1,11 @@
+Dockerfile
+docker-compose.yml
+.gitignore
+
+README.md
+
+# Copied from .gitignore
+node_modules
+elm-stuff
+dist
+.cache
